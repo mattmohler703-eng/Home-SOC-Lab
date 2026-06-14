@@ -1,1 +1,78 @@
+# Detection Labs
+
+---
+
+# Lab 01 - Wazuh Deployment and Endpoint Monitoring
+
+## Objective
+
+Deploy Wazuh as the central SIEM platform for a Home Security Operations Center (SOC).
+
+## Environment
+
+### Host System
+
+* HP Envy Laptop
+* Windows 11
+
+### Virtual Machines
+
+* Wazuh Server
+* Kali Linux
+
+### Network
+
+* Verizon Fios Router
+
+## Tools Used
+
+* Wazuh
+* VirtualBox
+* PowerShell
+* Linux Terminal
+
+## Deployment Process
+
+### Step 1 - Deploy Wazuh
+
+Imported the Wazuh virtual appliance into VirtualBox and started the server.
+
+### Step 2 - Access Dashboard
+
+Connected to the Wazuh web interface and verified successful login.
+
+### Step 3 - Install Endpoint Agent
+
+Installed the Wazuh agent on the Windows host system.
+
+### Step 4 - Register Endpoint
+
+Configured the agent to communicate with the Wazuh manager.
+
+### Step 5 - Verify Monitoring
+
+Confirmed the endpoint appeared as Active within the Wazuh dashboard.
+
+## Troubleshooting
+
+### Issue
+
+Agent registration and connectivity issues prevented the endpoint from appearing immediately.
+
+### Resolution
+
+Verified Wazuh services, confirmed manager configuration, and restarted the endpoint agent.
+
+## Outcome
+
+Successfully deployed a functioning SIEM platform capable of collecting endpoint security events.
+
+## Skills Demonstrated
+
+* SIEM Deployment
+* Endpoint Monitoring
+* Windows Administration
+* Linux Administration
+* Network Troubleshooting
+* Technical Documentation
 
