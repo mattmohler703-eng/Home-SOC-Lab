@@ -1,1 +1,24 @@
+# Screenshots
+
+## Screenshot Inventory
+
+### 01 - Wazuh Dashboard
+
+Overview of the Wazuh management console.
+
+### 02 - Active Wazuh Agents
+
+Verification that monitored endpoints are successfully communicating with the Wazuh manager.
+
+### 03 - VirtualBox Environment
+
+Virtual machines used in the Home SOC environment.
+
+### 04 - Kali Network Configuration
+
+Network configuration of the Kali Linux endpoint.
+
+### 05 - Wazuh Manager Status
+
+Verification that Wazuh services are operational.
 
