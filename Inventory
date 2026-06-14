@@ -1,1 +1,44 @@
+# Home Lab Asset Inventory
+
+## Overview
+
+This repository contains a Home Security Operations Center (SOC) built using Wazuh, Kali Linux, Windows, and VirtualBox.
+
+The spreadsheet file `Home-Lab-Inventory.xlsx` contains the detailed asset inventory for the lab environment.
+
+## Assets Tracked
+
+* Physical devices
+* Virtual machines
+* Operating systems
+* IP addresses
+* MAC addresses
+* Device roles
+* Monitoring status
+
+## Current Environment
+
+### Physical Devices
+
+* HP Envy Laptop
+* Verizon Fios Router
+* MacBook
+* Mobile Devices
+
+### Virtual Machines
+
+* Wazuh Server
+* Kali Linux
+
+## Skills Demonstrated
+
+* Asset Management
+* Network Documentation
+* Endpoint Tracking
+* SOC Administration
+* Technical Documentation
+
+## Supporting Documentation
+
+See `Home-Lab-Inventory.xlsx` for the complete inventory spreadsheet.
 
